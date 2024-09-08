@@ -1,0 +1,26 @@
+.spotifyBody{
+    background-color: teal;
+    width: 100vw;
+    height: 100vw;
+}
+
+
+
+.flex{
+    display: flex;
+}
+.center{
+    align-items: center;
+}
+.between{
+    justify-content: space-between;
+}
+
+
+/* ......navigation...... */
+
+
+
+
+
+
